@@ -1,0 +1,5 @@
+{
+    "solidity.compileUsingRemoteVersion" : "latest",
+    "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+    "solidity.validationDelay": 1500
+}
